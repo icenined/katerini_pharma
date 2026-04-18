@@ -1,6 +1,6 @@
 # katerini_pharma
 
-A script to scrape drug dispensation records from pharmacy sites in the Katerini region (Greece) via the ECSS patient management system.
+A script to scrape drug dispensation records from pharmacy sites in the Katerini region (Greece) via the ECSS patient management system. This was part of an authorized effort during the 2016 Syrian Refugee Crisis in assistance of a local NGO.
 
 ## Usage
 
